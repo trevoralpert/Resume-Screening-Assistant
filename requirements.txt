@@ -1,0 +1,16 @@
+langchain
+streamlit
+watchdog
+openai
+tiktoken
+python-dotenv
+unstructured
+pinecone-client
+pypdf
+sentence_transformers
+langchain-community
+langchain-huggingface
+langchain-openai
+flask
+torchvision
+torchaudio
