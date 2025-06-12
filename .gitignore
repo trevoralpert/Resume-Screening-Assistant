@@ -23,4 +23,4 @@ env/
 .idea/
 
 # Other
-*.log
+*.log.env
