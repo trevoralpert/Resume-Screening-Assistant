@@ -5,7 +5,7 @@ openai
 tiktoken
 python-dotenv
 unstructured
-pinecone-client
+pinecone
 pypdf
 sentence_transformers
 langchain-community
